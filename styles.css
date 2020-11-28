@@ -1,0 +1,40 @@
+.border {
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+	border-style: solid;
+	border-radius: 200px;
+background: rgb(152,0,254);
+background: linear-gradient(231deg, rgba(152,0,254,1) 0%, rgba(247,2,2,1) 50%, rgba(255,241,0,1) 100%);
+}
+.r1 {
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+	position: relative;
+	border:30px solid white;
+	border-radius: 150px;
+	top: 70px;
+	left: 2px;
+
+}	
+.r2 {
+	width: 50px;
+	height: 50px;
+	margin: 0 auto;
+	position: relative;
+	border-radius: 150px;
+	background-color: white;
+	left: 120px;
+	top: 30px;
+}
+.r3 {
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	position: relative;
+	border-radius: 150px;
+	border:30px solid white;
+	
+	top: 30px;
+}
